@@ -1,4 +1,4 @@
-var N = 10;
+var N = 8;
 var points = 0.;
 
 var links = {
